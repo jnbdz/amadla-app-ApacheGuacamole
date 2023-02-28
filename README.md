@@ -1,4 +1,4 @@
-<img src="assets/guac-logo.png" alt="Logo" style="width: 100px;" align="right">
+<img src="assets/guac-logo.png" alt="Logo" style="width: auto;" align="right">
 
 # amadla-app-ApacheGuacamole
 Application Apache Guacamole (https://guacamole.apache.org/).
