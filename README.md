@@ -2,3 +2,6 @@
 
 # amadla-app-ApacheGuacamole
 Application Apache Guacamole (https://guacamole.apache.org/).
+
+## :copy: Credits
+- Logo: https://guacamole.apache.org/
